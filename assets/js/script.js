@@ -36,18 +36,14 @@ async function getAboutGitHub() {
       <article class="about-content">
 
         <h2>Sobre mim</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, 
-          adipisicing elit. Natus minus perspiciatis 
-          reprehenderit error voluptatibus labore 
-          assumenda doloremque quibusdam sequi? 
-          Distinctio autem sed laudantium nostrum 
-          reprehenderit eligendi animi adipisci 
-          a neque.</p>
-        <p>Mussum Ipsum, cacilds vidis litro abertis. 
-          Per aumento de cachacis, eu reclamis. 
-          Suco de cevadiss deixa as pessoas mais interessantis. 
-          Quem manda na minha terra sou euzis! 
-          Quem num gosta di mé, boa gentis num é.</p>
+        <p>O que começou como curiosidade se tornou minha profissão e propósito.
+		 Para mim, programar é a arte de resolver problemas complexos com elegância e eficiência. 🚀</p>
+
+		<p>Adoro o desafio de transformar uma ideia abstrata em uma aplicação 
+		funcional e rápida. Quando não estou codando, estou provavelmente estudando novas arquiteturas ou contribuindo para projetos open-source. 💡</p>
+
+		<p>Meu objetivo é simples: deixar a web um pouco melhor, 
+		um commit de cada vez. ✨</p>
 
         <!-- Links (GitHub + Curriculo) e Dados do GitHub -->
         <div class="about-buttons-data">
